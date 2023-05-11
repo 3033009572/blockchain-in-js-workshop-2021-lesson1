@@ -39,7 +39,7 @@ https://github.com/CUITBlockchain/blockchain-in-js-workshop-2021/commit/25f3a0d8
 
 ### 代码 commint 地址
 
-https://github.com/CUITBlockchain/blockchain-in-js-workshop-2021/commit/25f3a0d83a9fff2b4514c5503f470df939d0c2af
+[blockchain-in-js-workshop-2021-lesson1/README.md at main · 3033009572/blockchain-in-js-workshop-2021-lesson1 · GitHub](https://github.com/3033009572/blockchain-in-js-workshop-2021-lesson1/blob/main/README.md)
 
 
 ### 代码截图
