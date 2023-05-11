@@ -11,9 +11,7 @@
 
 ## 代码仓库链接
 
-https://github.com/caosbad/blockchain-in-js-workshop-2021(示例用，请根据自身的仓库替换)
-
-
+[3033009572/blockchain-in-js-workshop-2021-lesson1 (github.com)](https://github.com/3033009572/blockchain-in-js-workshop-2021-lesson1)
 
 ## 第一课代码
 
