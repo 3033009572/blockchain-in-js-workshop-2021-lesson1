@@ -5,6 +5,7 @@
   "dependencies": {
     "crypto-js": "^3.3.0",
     "elliptic": "^6.4.0",
+    "lodash": "^4.17.21",
     "ramda": "^0.25.0"
   },
   "scripts": {
